@@ -1,0 +1,19 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "Parse and post pictures.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "enjoy",
+    "app"
+  ],
+  "author": "me",
+  "license": "GPL",
+  "dependencies": {
+    "csvtojson": "^1.1.9",
+    "request": "^2.85.0"
+  }
+}
